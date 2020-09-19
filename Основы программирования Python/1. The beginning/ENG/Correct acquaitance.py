@@ -1,0 +1,7 @@
+print('Hello, user')
+name = input('What is your name?')
+print('Nice to meet you,', name)
+years = input('How old are you?')
+print('Wow, I am', years, 'years old too')
+city = input('What city do you live in?')
+print('I love this city -', сity)
